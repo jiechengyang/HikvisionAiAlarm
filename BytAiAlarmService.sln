@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BytAiAlarmService", "BytAiAlarmService.csproj", "{BD71252E-54B1-42F9-A5A2-821FF193CC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDemoApp", "..\ConsoleDemoApp\ConsoleDemoApp.csproj", "{FB2FC6CC-6318-416B-A242-23A02196C353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD71252E-54B1-42F9-A5A2-821FF193CC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD71252E-54B1-42F9-A5A2-821FF193CC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD71252E-54B1-42F9-A5A2-821FF193CC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD71252E-54B1-42F9-A5A2-821FF193CC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2FC6CC-6318-416B-A242-23A02196C353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2FC6CC-6318-416B-A242-23A02196C353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2FC6CC-6318-416B-A242-23A02196C353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2FC6CC-6318-416B-A242-23A02196C353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A852D72-0F7A-4500-B57B-3C0C51FFCC12}
+	EndGlobalSection
+EndGlobal
